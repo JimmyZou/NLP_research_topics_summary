@@ -38,6 +38,8 @@ Very Deep Convolutional Networks for Text Classiﬁcation [[link]](https://arxiv
 Character-level Convolutional Networks for Text Classification [[link]](https://arxiv.org/abs/1509.01626)  
 Text Understanding from Scratch [[link]](https://arxiv.org/abs/1502.01710v5)  
 Hierarchical Attention Networks for Document Classification [[link]](http://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)  
+Bag of Tricks for Efficient Text Classification [[link]](https://arxiv.org/abs/1607.01759)  
+Enriching Word Vectors with Subword Information [[link]](https://arxiv.org/abs/1607.04606)  
 
 ## text comprehension
 ReasoNet: Learning to Stop Reading in Machine Comprehension [[link]](https://arxiv.org/abs/1609.05284v1)  
