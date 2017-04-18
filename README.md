@@ -16,7 +16,6 @@ Nematus: a Toolkit for Neural Machine Translation [[link]](https://arxiv.org/pdf
 
 # Dialogue Systems and Chatbot
 Personalizing a Dialogue System with Transfer Learning [[link]](https://arxiv.org/abs/1610.02891v2)  
-Visual Dialog [[link]](https://arxiv.org/abs/1611.08669v2)  
 A Knowledge-Grounded Neural Conversation Model [[link]](https://arxiv.org/pdf/1702.01932.pdf)  
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[link]](https://arxiv.org/pdf/1605.06069.pdf)  
 End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[link]](https://arxiv.org/abs/1609.00777v2)  
@@ -34,18 +33,23 @@ Reading Wikipedia to Answer Open-Domain Questions [[link]](https://arxiv.org/abs
 Paraconsistency and Word Puzzles [[link]](https://arxiv.org/abs/1608.01338)  
 
 # Word Embedding and Reading Comprehension
+## text/document classification
+Very Deep Convolutional Networks for Text Classiﬁcation [[link]](https://arxiv.org/abs/1606.01781) [[code]](https://github.com/geduo15/Very-Deep-Convolutional-Networks-for-Natural-Language-Processing-in-tensorflow)  
+Character-level Convolutional Networks for Text Classification [[link]](https://arxiv.org/abs/1509.01626)  
+Text Understanding from Scratch [[link]](https://arxiv.org/abs/1502.01710v5)  
+Hierarchical Attention Networks for Document Classification [[link]](http://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)  
+
+## text comprehension
 ReasoNet: Learning to Stop Reading in Machine Comprehension [[link]](https://arxiv.org/abs/1609.05284v1)  
 SQuAD: 100,000+ Questions for Machine Comprehension of Text [[link]](https://arxiv.org/abs/1606.05250)  
 Language as a Latent Variable: Discrete Generative Models for Sentence Compression [[Link]](https://arxiv.org/pdf/1609.07317v1.pdf)  
 Text understanding with the attention sum reader network [[link]](https://arxiv.org/abs/1603.01547)  
-Character-level Convolutional Networks for Text Classification [[link]](https://arxiv.org/abs/1509.01626)  
-Very Deep Convolutional Networks for Text Classiﬁcation [[link]](https://arxiv.org/abs/1606.01781) [[code]](https://github.com/geduo15/Very-Deep-Convolutional-Networks-for-Natural-Language-Processing-in-tensorflow)  
 Scaffolding Networks for Teaching and Learning to Comprehend [[link]](https://arxiv.org/abs/1702.08653)  
-
-All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[link]](https://arxiv.org/abs/1702.01417)  
 Words Or Characters? Fine-Grained Gating For Reading Comprehension [[link]](https://arxiv.org/pdf/1611.01724v1.pdf)  
 A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
+
 Incremental Skip-gram Model with Negative Sampling [[link]](https://arxiv.org/pdf/1704.03956.pdf)  
+All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[link]](https://arxiv.org/abs/1702.01417)  
 
 # Information Extraction
 Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning [[link]]()  
@@ -80,6 +84,7 @@ Identifying Beneficial Task Relations for Multi-task Learning in Deep Neural Net
 # Computer vision
 ## Image Caption
 An Empirical Study of Language CNN for Image Captioning [[link]](https://arxiv.org/pdf/1612.07086v2.pdf)  
+Visual Dialog [[link]](https://arxiv.org/abs/1611.08669v2)  
 
 ## Semantic Segmentation
 Predicting Deeper into the Future of Semantic Segmentation [[link]](https://arxiv.org/abs/1703.07684)  
