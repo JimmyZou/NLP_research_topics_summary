@@ -46,7 +46,7 @@ Words Or Characters? Fine-Grained Gating For Reading Comprehension [[link]](http
 A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
 Incremental Skip-gram Model with Negative Sampling [[link]](https://arxiv.org/pdf/1704.03956.pdf)  
 
-#Information Extraction
+# Information Extraction
 Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning [[link]]()  
 Automated Phrase Mining from Massive Text Corpora [[link]](https://arxiv.org/abs/1702.04457v2)  
 Pointing the Unknown Words [[link]](https://arxiv.org/abs/1603.08148v3)  
