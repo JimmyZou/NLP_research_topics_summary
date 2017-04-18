@@ -1,4 +1,5 @@
-# NLP_research_topics_summary
+# README #
+
 Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation [[link]](https://arxiv.org/abs/1703.09902)  
 Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[link]](https://arxiv.org/abs/1703.01619)  
 Comparative Study of CNN and RNN for Natural Language Processing [[link]](https://arxiv.org/pdf/1702.01923.pdf)  
@@ -77,6 +78,9 @@ Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks 
 Identifying Beneficial Task Relations for Multi-task Learning in Deep Neural Networks [[link]](https://arxiv.org/abs/1702.08303) [[code]](https://github.com/jbingel/eacl2017_mtl)  
 
 # Computer vision
+## Image Caption
+An Empirical Study of Language CNN for Image Captioning [[link]](https://arxiv.org/pdf/1612.07086v2.pdf)  
+
 ## Semantic Segmentation
 Predicting Deeper into the Future of Semantic Segmentation [[link]](https://arxiv.org/abs/1703.07684)  
 Coupled Deep Learning for Heterogeneous Face Recognition [[link]](https://arxiv.org/pdf/1704.02450.pdf)  
