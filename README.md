@@ -6,6 +6,7 @@ Comparative Study of CNN and RNN for Natural Language Processing [[link]](https:
 
 # Word Embedding and Reading Comprehension
 ## text/document classification
+DeepMind Generative and Discriminative Text Classification with Recurrent Neural Networks [[link]](https://arxiv.org/pdf/1703.01898.pdf)  
 Learning Word Vectors for Sentiment Analysis [[link]](http://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)  
 A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification [[link]](https://arxiv.org/abs/1510.03820)  
 Very Deep Convolutional Networks for Text Classiﬁcation [[link]](https://arxiv.org/abs/1606.01781) [[code]](https://github.com/geduo15/Very-Deep-Convolutional-Networks-for-Natural-Language-Processing-in-tensorflow)  
@@ -14,7 +15,6 @@ Text Understanding from Scratch [[link]](https://arxiv.org/abs/1502.01710v5) [[c
 Hierarchical Attention Networks for Document Classification [[link]](http://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) [[code1]](https://github.com/richliao/textClassifier) [[code2]](https://github.com/EdGENetworks/attention-networks-for-classification)  
 FastText (Facebook AI Research) [[github]](https://github.com/facebookresearch/fastText)  
 Bag of Tricks for Efficient Text Classification [[link]](https://arxiv.org/abs/1607.01759)  
-Enriching Word Vectors with Subword Information [[link]](https://arxiv.org/abs/1607.04606)  
 Learning text representation using recurrent convolutional neural network with highway layers [[link]](https://arxiv.org/pdf/1606.06905.pdf) [[code]](https://github.com/wenying45/deep_learning_tutorial/blob/master/rcnn-hw/RCNN-HW-IMDB.ipynb)  
 ### text classification dataset
 summary on googledrive [[link]](https://drive.google.com/drive/u/0/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M)  
@@ -26,6 +26,13 @@ Yelp reviews [[link]](https://en.yelp.com.hk/dataset_challenge/dataset)
 Yahoo! Answers dataset  
 Amazon reviews [[link]](http://snap.stanford.edu/data/web-Amazon.html)  
 
+## word representation
+Enriching Word Vectors with Subword Information [[link]](https://arxiv.org/abs/1607.04606)  
+Incremental Skip-gram Model with Negative Sampling [[link]](https://arxiv.org/pdf/1704.03956.pdf)  
+Glove: Global Vectors for Word Representation [[link]](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/PenningtonSocherManning2014.pdf)  
+All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[link]](https://arxiv.org/abs/1702.01417)  
+A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
+
 ## text comprehension
 ReasoNet: Learning to Stop Reading in Machine Comprehension [[link]](https://arxiv.org/abs/1609.05284v1)  
 SQuAD: 100,000+ Questions for Machine Comprehension of Text [[link]](https://arxiv.org/abs/1606.05250)  
@@ -34,9 +41,6 @@ Text understanding with the attention sum reader network [[link]](https://arxiv.
 Scaffolding Networks for Teaching and Learning to Comprehend [[link]](https://arxiv.org/abs/1702.08653)  
 Words Or Characters? Fine-Grained Gating For Reading Comprehension [[link]](https://arxiv.org/pdf/1611.01724v1.pdf)  
 A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
-
-Incremental Skip-gram Model with Negative Sampling [[link]](https://arxiv.org/pdf/1704.03956.pdf)  
-All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[link]](https://arxiv.org/abs/1702.01417)  
 
 # Neutral Machine Translation 
 (first Attention in NMT)Neural Machine Translation by Jointly Learning to Align and Translate [[link]](https://arxiv.org/abs/1409.0473v7)  
