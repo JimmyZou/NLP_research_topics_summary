@@ -3,9 +3,16 @@
 Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation [[link]](https://arxiv.org/abs/1703.09902)  
 Neural Machine Translation and Sequence-to-sequence Models: A Tutorial [[link]](https://arxiv.org/abs/1703.01619)  
 Comparative Study of CNN and RNN for Natural Language Processing [[link]](https://arxiv.org/pdf/1702.01923.pdf)  
+A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[link]](A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks)  
+
 
 # Word Embedding and Reading Comprehension
 ## text/document classification
+Get To The Point: Summarization with Pointer-Generator Networks [[link]](https://arxiv.org/abs/1704.04368v2)  
+Neural Extractive Summarization with Side Information [[link]](https://arxiv.org/abs/1704.04530)  
+A Survey of Neural Network Techniques for Feature Extraction from Text [[link]](https://arxiv.org/abs/1704.08531v1)  
+Learning to Skim Text [[link]](https://arxiv.org/abs/1704.06877)  
+An Actor-Critic Algorithm for Sequence Prediction [[link]](https://arxiv.org/abs/1607.07086v3)  
 DeepMind Generative and Discriminative Text Classification with Recurrent Neural Networks [[link]](https://arxiv.org/pdf/1703.01898.pdf)  
 Learning Word Vectors for Sentiment Analysis [[link]](http://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)  
 A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification [[link]](https://arxiv.org/abs/1510.03820)  
@@ -26,7 +33,8 @@ Yelp reviews [[link]](https://en.yelp.com.hk/dataset_challenge/dataset)
 Yahoo! Answers dataset  
 Amazon reviews [[link]](http://snap.stanford.edu/data/web-Amazon.html)  
 
-## word representation
+## word/text representation
+Learning word embeddings efficiently with noise-contrastive estimation [[link]](http://www.gatsby.ucl.ac.uk/~amnih/papers/wordreps.pdf)  
 Enriching Word Vectors with Subword Information [[link]](https://arxiv.org/abs/1607.04606)  
 Incremental Skip-gram Model with Negative Sampling [[link]](https://arxiv.org/pdf/1704.03956.pdf)  
 Glove: Global Vectors for Word Representation [[link]](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/PenningtonSocherManning2014.pdf)  
@@ -54,6 +62,7 @@ Massive Exploration of Neural Machine Translation Architectures [[link]](https:/
 Nematus: a Toolkit for Neural Machine Translation [[link]](https://arxiv.org/pdf/1703.04357.pdf) [[code]](https://github.com/rsennrich/nematus)  
 
 # Dialogue Systems and Chatbot
+Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction [[link]](https://arxiv.org/abs/1704.01691v1)  
 Personalizing a Dialogue System with Transfer Learning [[link]](https://arxiv.org/abs/1610.02891v2)  
 A Knowledge-Grounded Neural Conversation Model [[link]](https://arxiv.org/pdf/1702.01932.pdf)  
 A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[link]](https://arxiv.org/pdf/1605.06069.pdf)  
@@ -95,23 +104,35 @@ BEGAN: Boundary Equilibrium Generative Adversarial Networks [[link]](https://arx
 Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities [[link]](https://arxiv.org/abs/1701.06264) [[blog1]](https://zhuanlan.zhihu.com/p/25204020) [[blog2]](https://zhuanlan.zhihu.com/p/25580027) [[code1]](https://github.com/guojunq/lsgan) [[code2]](https://github.com/guojunq/glsgan)  
 
 # DNN theories
-Language Modeling with Gated Convolutional Networks [[link]](https://arxiv.org/abs/1612.08083v1)  
-Sequence-to-Sequence Learning as Beam-Search Optimization [[link]](https://arxiv.org/abs/1606.02960v2)  
+Exploring Sparsity in Recurrent Neural Networks [[link]](https://arxiv.org/abs/1704.05119)  
+Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[ink]](https://arxiv.org/abs/1702.04595)  
+Introspection: Accelerating Neural Network Training By Learning Weight Evolution [[link]](https://arxiv.org/abs/1704.04959v1)  
 Structured Attention Networks [[link]](https://arxiv.org/abs/1702.00887) [[code]](https://github.com/harvardnlp/struct-attn)  
 LightRNN: Memory and Computation-Efficient Recurrent Neural Networks [[link]](https://papers.nips.cc/paper/6512-lightrnn-memory-and-computation-efficient-recurrent-neural-networks.pdf)  
 Learning Gradient Descent: Better Generalization and Longer Horizons [[link]](https://arxiv.org/abs/1703.03633) [[code]](https://github.com/vfleaking/rnnprop)  
 Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks [[link]](https://arxiv.org/abs/1703.07928)  
 Identifying Beneficial Task Relations for Multi-task Learning in Deep Neural Networks [[link]](https://arxiv.org/abs/1702.08303) [[code]](https://github.com/jbingel/eacl2017_mtl)  
+## RL theory
+Combining policy gradient and Q-learning [[link]](https://arxiv.org/abs/1611.01626)  
+An Actor-Critic Algorithm for Sequence Prediction [[link]](https://arxiv.org/abs/1607.07086v3)  
 
 # Computer vision
+Hierarchical Memory Networks [[link]](https://arxiv.org/abs/1605.07427v1)  
+Language Modeling with Gated Convolutional Networks [[link]](https://arxiv.org/abs/1612.08083v1)  
+Sequence-to-Sequence Learning as Beam-Search Optimization [[link]](https://arxiv.org/abs/1606.02960v2)  
+
 ## Image Caption
+MAT: A Multimodal Attentive Translator for Image Captioning [[link]](https://arxiv.org/abs/1702.05658v1)  
+Self-critical Sequence Training for Image Captioning [[link]](https://arxiv.org/abs/1612.00563)  
+Review Networks for Caption Generation [[link]](https://arxiv.org/abs/1605.07912)  
 An Empirical Study of Language CNN for Image Captioning [[link]](https://arxiv.org/pdf/1612.07086v2.pdf)  
 Visual Dialog [[link]](https://arxiv.org/abs/1611.08669v2)  
+Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[link]](https://arxiv.org/abs/1502.03044v3)  
+Neural Image Caption Generation with Visual Attention [[link]](https://arxiv.org/pdf/1502.03044v3.pdf)  
 
 ## Semantic Segmentation
 Predicting Deeper into the Future of Semantic Segmentation [[link]](https://arxiv.org/abs/1703.07684)  
 Coupled Deep Learning for Heterogeneous Face Recognition [[link]](https://arxiv.org/pdf/1704.02450.pdf)  
 AMR-to-text Generation with Synchronous Node Replacement Grammar [[link]](https://arxiv.org/pdf/1702.00500v3.pdf)  
 Semantic Segmentation Using Adversarial Networks [[link]](https://arxiv.org/abs/1611.08408)  
-
 
