@@ -7,9 +7,7 @@ A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[link]
 
 # Word Embedding and Text Comprehension
 ## text/sentence classification
-Get To The Point: Summarization with Pointer-Generator Networks [[link]](https://arxiv.org/abs/1704.04368v2)  
-Neural Extractive Summarization with Side Information [[link]](https://arxiv.org/abs/1704.04530)  
-A Survey of Neural Network Techniques for Feature Extraction from Text [[link]](https://arxiv.org/abs/1704.08531v1)  
+Convolutional Sequence to Sequence Learning [[link]](https://arxiv.org/pdf/1705.03122.pdf)  
 Learning to Skim Text [[link]](https://arxiv.org/abs/1704.06877)  
 Generative and Discriminative Text Classification with Recurrent Neural Networks [[link]](https://arxiv.org/pdf/1703.01898.pdf)  
 Very Deep Convolutional Networks for Text Classiﬁcation [[link]](https://arxiv.org/abs/1606.01781) [[code]](https://github.com/geduo15/Very-Deep-Convolutional-Networks-for-Natural-Language-Processing-in-tensorflow)  
@@ -20,12 +18,27 @@ Learning text representation using recurrent convolutional neural network with h
 Character-level Convolutional Networks for Text Classification [[link]](https://arxiv.org/abs/1509.01626)  
 Text Understanding from Scratch [[link]](https://arxiv.org/abs/1502.01710v5) [[code]](https://github.com/zhangxiangxiao/Crepe)  
 A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification [[link]](https://arxiv.org/abs/1510.03820)  
-### text classification dataset
+## text extractive/abstractive summarization
+Neural Extractive Summarization with Side Information [[link]](https://arxiv.org/abs/1704.04530)  
+Get To The Point: Summarization with Pointer-Generator Networks [[link]](https://arxiv.org/abs/1704.04368v2)  
+SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents [[link]](https://arxiv.org/abs/1611.04230)  
+Abstractive Text Summarization Using Sequence-to-Sequence RNNs and Beyond [[link]](https://arxiv.org/pdf/1602.06023v5.pdf)  
+Sequence-to-Sequence RNNs for Text Summarization [[link]](https://arxiv.org/abs/1602.06023v1) [[code]](https://github.com/tensorflow/models/tree/master/textsum)  
+Neural Headline Generation on Abstract Meaning Representation [[link]](http://aclweb.org/anthology/D/D16/D16-1112.pdf)  
+A Neural Attention Model for Abstractive Sentence Summarization [[link]](https://arxiv.org/abs/1509.00685v2)  
+## others
+Learning to Identify Ambiguous and Misleading News Headlines[[link]](https://arxiv.org/abs/1705.06031)  
+### text dataset
+CNN / Daily Mail dataset (non-anonymized) for summarization[[link]](https://github.com/abisee/cnn-dailymail)  
+
 
 ## word representation
+Adversarial Multi-Criteria Learning for Chinese Word Segmentation [[link]](https://arxiv.org/abs/1704.07556)  
+A Survey of Neural Network Techniques for Feature Extraction from Text [[link]](https://arxiv.org/abs/1704.08531v1)  
 Incremental Skip-gram Model with Negative Sampling [[link]](https://arxiv.org/pdf/1704.03956.pdf)  
 A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
 All-but-the-Top: Simple and Effective Postprocessing for Word Representations [[link]](https://arxiv.org/abs/1702.01417)  
+The Stanford CoreNLP Natural Language Processing Toolkit [[link]](https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf)  
 Learning Word Vectors for Sentiment Analysis [[link]](http://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)  
 Learning word embeddings efficiently with noise-contrastive estimation [[link]](http://www.gatsby.ucl.ac.uk/~amnih/papers/wordreps.pdf)  
 Enriching Word Vectors with Subword Information [[link]](https://arxiv.org/abs/1607.04606)  
@@ -40,6 +53,7 @@ SQuAD: 100,000+ Questions for Machine Comprehension of Text [[link]](https://arx
 Language as a Latent Variable: Discrete Generative Models for Sentence Compression [[Link]](https://arxiv.org/pdf/1609.07317v1.pdf)  
 Text understanding with the attention sum reader network [[link]](https://arxiv.org/abs/1603.01547)  
 Words Or Characters? Fine-Grained Gating For Reading Comprehension [[link]](https://arxiv.org/pdf/1611.01724v1.pdf)  
+Teaching Machines to Read and Comprehend [[link]](https://arxiv.org/pdf/1506.03340.pdf)  
 
 # Information Extraction
 Mining Quality Phrases from Massive Text Corpora [[link]](http://jialu.cs.illinois.edu/paper/sigmod2015-liu.pdf)  
@@ -48,6 +62,9 @@ Improving Information Extraction by Acquiring External Evidence with Reinforceme
 Pointing the Unknown Words [[link]](https://arxiv.org/abs/1603.08148v3)  
 
 # GAN
+Domain-Adversarial Training of Neural Networks [[link]](https://arxiv.org/abs/1505.07818v4) [[code]](https://github.com/pumpikano/tf-dann)  
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[link]](https://arxiv.org/abs/1511.06434v2) [[code]](https://github.com/carpedm20/DCGAN-tensorflow)  
+Adversarial discriminative domain adaptation [[link]](https://arxiv.org/abs/1702.05464)  
 ## GAN for NLP
 Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities [[link]](https://arxiv.org/abs/1701.06264) [[blog1]](https://zhuanlan.zhihu.com/p/25204020) [[blog2]](https://zhuanlan.zhihu.com/p/25580027) [[code1]](https://github.com/guojunq/lsgan) [[code2]](https://github.com/guojunq/glsgan)  
 A Hybrid Convolutional Variational Autoencoder for Text Generation [[link]](https://arxiv.org/pdf/1702.02390.pdf)  
@@ -75,6 +92,7 @@ Massive Exploration of Neural Machine Translation Architectures [[link]](https:/
 Nematus: a Toolkit for Neural Machine Translation [[link]](https://arxiv.org/pdf/1703.04357.pdf) [[code]](https://github.com/rsennrich/nematus)  
 
 # Dialogue Systems and Chatbot
+Multi-agent cooperation and the emergence of (Natural) language [[link]](https://arxiv.org/pdf/1612.07182.pdf)  
 Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction [[link]](https://arxiv.org/abs/1704.01691v1)  
 Personalizing a Dialogue System with Transfer Learning [[link]](https://arxiv.org/abs/1610.02891v2)  
 A Knowledge-Grounded Neural Conversation Model [[link]](https://arxiv.org/pdf/1702.01932.pdf)  
@@ -86,14 +104,26 @@ Learning end-to-end goal oriented dialog [[link]](https://openreview.net/pdf?id=
 Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders [[link]](https://arxiv.org/pdf/1703.10960.pdf)  
 FRAMES: A corpus for adding memory to goal oriented dialogue systems [[link]](https://arxiv.org/pdf/1704.00057.pdf)  
 Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[link]](https://arxiv.org/abs/1704.01074)  
-## Q&A
+Key-Value Retrieval Networks for Task-Oriented Dialogue [[link]](https://arxiv.org/pdf/1705.05414.pdf)  
+
+# QA SQuAD
+Teaching Machines to Read and Comprehend [[link]](https://arxiv.org/abs/1506.03340)  
 Learning to Compose Neural Networks for Question Answering [[link]](https://arxiv.org/abs/1601.01705v4)  
+SQuAD: 100,000+ Questions for Machine Comprehension of Text [[link]](https://arxiv.org/abs/1606.05250v3)  
+Paraconsistency and Word Puzzles [[link]](https://arxiv.org/abs/1608.01338)  
+Machine Comprehension Using Match-LSTM and Answer Pointer [[link]](https://arxiv.org/abs/1608.07905)  
+Bidirectional Attention Flow for Machine Comprehension [[link]](https://arxiv.org/abs/1611.01603)  
+Dynamic Coattention Networks For Question Answering [[link]](https://arxiv.org/abs/1611.01604)  
+Multi-Perspective Context Matching for Machine Comprehension [[link]](https://arxiv.org/abs/1612.04211)  
 Semi-Supervised QA with Generative Domain-Adaptive Nets [[link]](https://arxiv.org/abs/1702.02206v1)  
 Exploring Question Understanding and Adaptation in Neural-Network-Based Question Answering [[link]](https://arxiv.org/pdf/1703.04617.pdf)  
 Reading Wikipedia to Answer Open-Domain Questions [[link]](https://arxiv.org/abs/1704.00051)  
-Paraconsistency and Word Puzzles [[link]](https://arxiv.org/abs/1608.01338)  
+Making Neural QA as Simple as Possible but not Simpler [[link]](https://arxiv.org/abs/1703.04816v2)  
+R-net: Machine Reading Comprehension With Self-Matching Networks[[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
 
 # DNN theory
+Convolutional Sequence to Sequence Learning [[link]](https://arxiv.org/abs/1705.03122)  
+Understanding deep learning requires rethinking generalization [[link]](https://arxiv.org/abs/1611.03530)  
 Exploring Sparsity in Recurrent Neural Networks [[link]](https://arxiv.org/abs/1704.05119)  
 Visualizing Deep Neural Network Decisions: Prediction Difference Analysis [[ink]](https://arxiv.org/abs/1702.04595)  
 Introspection: Accelerating Neural Network Training By Learning Weight Evolution [[link]](https://arxiv.org/abs/1704.04959v1)  
@@ -104,6 +134,7 @@ Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks 
 Identifying Beneficial Task Relations for Multi-task Learning in Deep Neural Networks [[link]](https://arxiv.org/abs/1702.08303) [[code]](https://github.com/jbingel/eacl2017_mtl)  
 
 # RL theory
+Hybrid computing using a neural network with dynamic external memory [[link]](http://web.stanford.edu/class/psych209/Readings/GravesWayne16DNC.pdf)  
 Combining policy gradient and Q-learning [[link]](https://arxiv.org/abs/1611.01626)  
 An Actor-Critic Algorithm for Sequence Prediction [[link]](https://arxiv.org/abs/1607.07086v3)  
 
