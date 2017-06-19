@@ -45,6 +45,7 @@ Enriching Word Vectors with Subword Information [[link]](https://arxiv.org/abs/1
 Glove: Global Vectors for Word Representation [[link]](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/PenningtonSocherManning2014.pdf)  
 
 ## text comprehension and generation
+S-Net: From Answer Extraction to Answer Generation for Machine Reading Comprehension [[link]](http://cn.arxiv.org/abs/1706.04815)  
 A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
 Scaffolding Networks for Teaching and Learning to Comprehend [[link]](https://arxiv.org/abs/1702.08653)  
 An Actor-Critic Algorithm for Sequence Prediction [[link]](https://arxiv.org/abs/1607.07086v3)  
@@ -62,10 +63,12 @@ Improving Information Extraction by Acquiring External Evidence with Reinforceme
 Pointing the Unknown Words [[link]](https://arxiv.org/abs/1603.08148v3)  
 
 # GAN
+DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data [[link]](https://arxiv.org/abs/1706.02071)  
 Domain-Adversarial Training of Neural Networks [[link]](https://arxiv.org/abs/1505.07818v4) [[code]](https://github.com/pumpikano/tf-dann)  
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[link]](https://arxiv.org/abs/1511.06434v2) [[code]](https://github.com/carpedm20/DCGAN-tensorflow)  
 Adversarial discriminative domain adaptation [[link]](https://arxiv.org/abs/1702.05464)  
-## GAN for NLP
+## NLP Generation
+Event Representations for Automated Story Generation with Deep Neural Nets [[link]](http://cn.arxiv.org/abs/1706.01331)  
 Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities [[link]](https://arxiv.org/abs/1701.06264) [[blog1]](https://zhuanlan.zhihu.com/p/25204020) [[blog2]](https://zhuanlan.zhihu.com/p/25580027) [[code1]](https://github.com/guojunq/lsgan) [[code2]](https://github.com/guojunq/glsgan)  
 A Hybrid Convolutional Variational Autoencoder for Text Generation [[link]](https://arxiv.org/pdf/1702.02390.pdf)  
 Adversarial Learning for Neural Dialogue Generation [[link]](https://arxiv.org/pdf/1701.06547.pdf)  
@@ -90,6 +93,7 @@ Neural Machine Translation with Reconstruction [[link]](https://arxiv.org/pdf/16
 Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets [[link]](https://arxiv.org/abs/1703.04887)  
 Massive Exploration of Neural Machine Translation Architectures [[link]](https://arxiv.org/abs/1703.03906) [[code]](https://github.com/google/seq2seq/)  
 Nematus: a Toolkit for Neural Machine Translation [[link]](https://arxiv.org/pdf/1703.04357.pdf) [[code]](https://github.com/rsennrich/nematus)  
+Learning Paraphrastic Sentence Embeddings from Back-Translated Bitext [[link]](http://cn.arxiv.org/abs/1706.01847)  
 
 # Dialogue Systems and Chatbot
 Multi-agent cooperation and the emergence of (Natural) language [[link]](https://arxiv.org/pdf/1612.07182.pdf)  
@@ -105,6 +109,7 @@ Learning Discourse-level Diversity for Neural Dialog Models using Conditional Va
 FRAMES: A corpus for adding memory to goal oriented dialogue systems [[link]](https://arxiv.org/pdf/1704.00057.pdf)  
 Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[link]](https://arxiv.org/abs/1704.01074)  
 Key-Value Retrieval Networks for Task-Oriented Dialogue [[link]](https://arxiv.org/pdf/1705.05414.pdf)  
+Assigning personality/identity to a chatting machine for coherent conversation generation [[link]](http://cn.arxiv.org/abs/1706.02861)  
 
 # QA SQuAD
 Teaching Machines to Read and Comprehend [[link]](https://arxiv.org/abs/1506.03340)  
@@ -120,8 +125,16 @@ Exploring Question Understanding and Adaptation in Neural-Network-Based Question
 Reading Wikipedia to Answer Open-Domain Questions [[link]](https://arxiv.org/abs/1704.00051)  
 Making Neural QA as Simple as Possible but not Simpler [[link]](https://arxiv.org/abs/1703.04816v2)  
 R-net: Machine Reading Comprehension With Self-Matching Networks[[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)  
+TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension [[link]](https://arxiv.org/abs/1705.03551)  
+Ask the Right Questions: Active Question Reformulation with Reinforcement Learning [[link]](https://arxiv.org/abs/1705.07830)  
+
 
 # DNN theory
+The Landscape of Deep Learning Algorithms [[link]](https://arxiv.org/abs/1705.07038)  
+On orthogonality and learning recurrent networks with long term dependencies [[link]](https://arxiv.org/pdf/1702.00071.pdf)  
+Pixel Deconvolutional Networks [[link]](https://arxiv.org/abs/1705.07962)  
+A simple neural network module for relational reasoning [[link]](https://arxiv.org/abs/1706.01427)  
+pix2code: Generating Code from a Graphical User Interface Screenshot [[link]](https://arxiv.org/abs/1705.07962) [[code]](https://github.com/tonybeltramelli/pix2code)  
 Convolutional Sequence to Sequence Learning [[link]](https://arxiv.org/abs/1705.03122)  
 Understanding deep learning requires rethinking generalization [[link]](https://arxiv.org/abs/1611.03530)  
 Exploring Sparsity in Recurrent Neural Networks [[link]](https://arxiv.org/abs/1704.05119)  
@@ -153,6 +166,8 @@ Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[l
 Neural Image Caption Generation with Visual Attention [[link]](https://arxiv.org/pdf/1502.03044v3.pdf)  
 
 ## Semantic Segmentation
+Recurrent Scene Parsing with Perspective Understanding in the Loop [[link]](https://arxiv.org/abs/1705.07238)  
+Loss Max-Pooling for Semantic Image Segmentation [[link]](https://arxiv.org/abs/1704.02966)  
 Predicting Deeper into the Future of Semantic Segmentation [[link]](https://arxiv.org/abs/1703.07684)  
 Coupled Deep Learning for Heterogeneous Face Recognition [[link]](https://arxiv.org/pdf/1704.02450.pdf)  
 AMR-to-text Generation with Synchronous Node Replacement Grammar [[link]](https://arxiv.org/pdf/1702.00500v3.pdf)  
