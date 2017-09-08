@@ -46,14 +46,19 @@ Glove: Global Vectors for Word Representation [[link]](http://www.cs.columbia.ed
 
 ## text comprehension and generation
 S-Net: From Answer Extraction to Answer Generation for Machine Reading Comprehension [[link]](http://cn.arxiv.org/abs/1706.04815)  
+Machine Comprehension Using Match-LSTM and Answer Pointer  
 A Comparative Study of Word Embeddings for Reading Comprehension [[link]](https://arxiv.org/abs/1703.00993)  
 Scaffolding Networks for Teaching and Learning to Comprehend [[link]](https://arxiv.org/abs/1702.08653)  
 An Actor-Critic Algorithm for Sequence Prediction [[link]](https://arxiv.org/abs/1607.07086v3)  
 ReasoNet: Learning to Stop Reading in Machine Comprehension [[link]](https://arxiv.org/abs/1609.05284v1)  
 SQuAD: 100,000+ Questions for Machine Comprehension of Text [[link]](https://arxiv.org/abs/1606.05250)  
 Language as a Latent Variable: Discrete Generative Models for Sentence Compression [[Link]](https://arxiv.org/pdf/1609.07317v1.pdf)  
+Gated-Attention Readers for Text Comprehension  
+Iterative Alternating Neural Attention for Machine Reading  
+Attention-over-Attention Neural Networks for Reading Comprehension  
 Text understanding with the attention sum reader network [[link]](https://arxiv.org/abs/1603.01547)  
 Words Or Characters? Fine-Grained Gating For Reading Comprehension [[link]](https://arxiv.org/pdf/1611.01724v1.pdf)  
+A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task  
 Teaching Machines to Read and Comprehend [[link]](https://arxiv.org/pdf/1506.03340.pdf)  
 
 # Information Extraction
